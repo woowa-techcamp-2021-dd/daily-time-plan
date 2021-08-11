@@ -14,7 +14,7 @@
 
 ### TIL
 
-- [TIL - 2021.08.11](https://velog.io/@jjuny546/TIL-2021.08.11)
+- [TIL - 2021.08.12](https://velog.io/@jjuny546/TIL-2021.08.12)
 
 <br/>
 
